@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "markdown.styles": [
+            "Style.css"
+        ],
+        "markdown": {
+            "files.trimTrailingWhitespace": false
+        },
+    },
+    "python.formatting.provider": "black"
+}
